@@ -1,0 +1,20 @@
+# IDE
+.idea/
+.vscode/
+
+# python
+__pycache__
+*.pyc
+/venv/
+
+# runtime & temp files
+test.py
+*.db
+*.mcdr
+*.pyz
+/run
+*.zip
+*.tar*
+
+# docs
+/site/

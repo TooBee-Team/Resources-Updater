@@ -1,0 +1,14 @@
+{
+  "id": "resources_updater",
+  "version": "0.0.1",
+  "name": "Resources Updater",
+  "description": {
+    "en_us": "Automatically update your resources from URLs",
+    "zh_cn": "从一些 URL 自动更新你的游戏资源"
+  },
+  "author": "Fungus",
+  "dependencies": {
+    "mcdreforged": ">=2.14.5"
+  },
+  "archive_name": "Resources-Updater-v{verison}"
+}
